@@ -1,4 +1,16 @@
-"Aero": [
+{
+  "ID": "7702ced3-1a60-4fd2-a1b6-4fc127aef906",
+  "Message": "",
+  "Global": {
+    "NewConfirmed": 329580,
+    "TotalConfirmed": 634636016,
+    "NewDeaths": 2050,
+    "TotalDeaths": 6609061,
+    "NewRecovered": 0,
+    "TotalRecovered": 0,
+    "Date": "2022-11-17T11:53:08.586Z"
+  },
+  "Countries": [
     {
       "name": "Leanne Graham",
       "visa": "CN", 
