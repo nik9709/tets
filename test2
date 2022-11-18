@@ -1,0 +1,67 @@
+  "Aero": [
+    {
+      "name": "Leanne Graham",
+      "visa": "CN", 
+      "country": "SVO",
+      "rank": "Капитан",
+      "flight_hours": 78
+      "Date": "2022-11-17T11:53:08.586Z",
+      "Premium": {
+        
+      }
+    },
+    {
+     "name": "Ervin Howell",
+      "visa": "IN",                            
+      "country": "LED",
+      "rank": "Второй пилот",
+      "flight_hours": 54
+      "Date": "2022-11-17T11:53:08.586Z",
+      "Premium": {
+        
+      }
+    },
+    {
+      "name": "Clementine Bauch",
+      "visa": "US",
+      "country": "LED",
+      "rank": "Второй пилот",
+      "flight_hours": 89
+      "Date": "2022-11-17T11:53:08.586Z",
+      "Premium": {
+        
+      }
+    },
+    {
+      "name": "Patricia Lebsack",
+      "visa": "EU",
+      "country": "JFK",                               
+      "rank": "Второй пилот",
+      "flight_hours": 35
+      "Date": "2022-11-17T11:53:08.586Z",
+      "Premium": {
+        
+      }
+    },
+    {
+      "name": "Leanne Bell",
+      "visa": "CY",
+      "country": "OVB",
+      "rank": "Капитан",
+      "salary": 20
+      "Date": "2022-11-17T11:53:08.586Z",
+      "Premium": {
+        
+      }
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "visa": "POL",
+      "country": "VKO",
+      "rank": "Капитан",
+      "flight_hours": 88   
+      "Date": "2022-11-17T11:53:08.586Z",
+      "Premium": {
+        
+      }
+    },
