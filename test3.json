@@ -1,42 +1,42 @@
 [
     {
       "name": "Leanne Graham",
-      "visa": "CN", 
+      "visa": "CN1", 
       "country": "SVO",
       "rank": "Капитан1",
       "flight_hours": 78
     },
     {
       "name": "Ervin Howell",
-      "visa": "IN",                            
+      "visa": "IN1",                            
       "country": "LED",
       "rank": "Второй пилот1",
       "flight_hours": 54
     },
     {
       "name": "Clementine Bauch",
-      "visa": "US",
+      "visa": "US1",
       "country": "LED",
       "rank": "Второй пилот1",
       "flight_hours": 89
     },
     {
       "name": "Patricia Lebsack",
-      "visa": "EU",
+      "visa": "EU1",
       "country": "JFK",                               
       "rank": "Второй пилот1",
       "flight_hours": 35
     },
     {
       "name": "Leanne Bell",
-      "visa": "CY",
+      "visa": "CY1",
       "country": "OVB",
       "rank": "Капитан1",
       "salary": 20
     },
     {
       "name": "Chelsey Dietrich",
-      "visa": "POL",
+      "visa": "US1",
       "country": "VKO",
       "rank": "Капитан1",
       "flight_hours": 88   
