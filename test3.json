@@ -21,11 +21,25 @@
       "flight_hours": 89
     },
     {
+      "name": "Orvin Howell",
+      "visa": "IN1",                            
+      "country": "LED",
+      "rank": "Второй пилот1",
+      "flight_hours": 34
+    },
+    {
       "name": "Patricia Lebsack",
       "visa": "EU1",
       "country": "JFK",                               
       "rank": "Второй пилот1",
       "flight_hours": 35
+    },
+    {
+      "name": "Tyhricia Lebsack",
+      "visa": "EU1",
+      "country": "JFK",                               
+      "rank": "Второй пилот1",
+      "flight_hours": 89
     },
     {
       "name": "Reanne Wall",
