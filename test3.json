@@ -28,11 +28,25 @@
       "flight_hours": 35
     },
     {
+      "name": "Reanne Wall",
+      "visa": "CY1",
+      "country": "OVB",
+      "rank": "Капитан1",
+      "flight_hours": 36
+    },
+    {
       "name": "Leanne Bell",
       "visa": "CY1",
       "country": "OVB",
       "rank": "Капитан1",
-      "salary": 20
+      "flight_hours": 36
+    },
+    {
+      "name": "Eanne Kell",
+      "visa": "CY1",
+      "country": "OVB",
+      "rank": "Капитан1",
+      "flight_hours": 35
     },
     {
       "name": "Chelsey Dietrich",
